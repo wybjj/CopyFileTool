@@ -1,6 +1,8 @@
 ﻿#版权所有(C) 2012-2013 白俊杰( wybjj@163.com )
 #copyfiles.py verision 0.1
 
+从github获取最新版本: https://github.com/wybjj/CopyFileTool
+
 许可协议:
 本工具是自由软件，可以在GNU General Public License(GPL)第三版的许可下使用。许可协议原文请参考：http://www.gnu.org/licenses/gpl.html.
 

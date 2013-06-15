@@ -1,6 +1,8 @@
 #Copyright(C) 2012-2013 Bai Junjie( wybjj@163.com )
 #copyfiles.py verision 0.1
 
+Get The latest version from github: https://github.com/wybjj/CopyFileTool
+
 LICENSE:
 This program is free software,
 you can use this file under the GNU General Public License(GPL) published by the Free Software Foundation, 
